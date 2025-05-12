@@ -88,3 +88,5 @@ GROUP BY predicted_class;
 1. [Spark SQL](https://doi.org/10.1145/2723372.2742797) - Armbrust et al.
 2. [DeepFake Detectors for Facial Parts](https://doi.org/10.3390/electronics12183932)
 3. [MobileNetV3 for Image Classification](https://doi.org/10.1109/ICBAIE52039.2021.9389905)
+4. https://arxiv.org/html/2408.01690v1
+
