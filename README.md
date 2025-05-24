@@ -10,7 +10,7 @@ This project presents a scalable and intelligent fraud detection system built us
 Online identity verification systems face increasing threats from forged documents. Traditional rule-based validation often fails to detect subtle tampering like copy-paste or digital inpainting. This project builds a robust ML pipeline to:
 - Detect whether an ID is genuine or fraudulent.
 - Classify the type of fraud (crop-and-replace vs. inpaint-and-rewrite).
-- Enable scalable querying over large datasets using SparkSQL.
+- Enable scalable querying over large datasets using SparkSQL. 
 
 ##  Dataset
 
